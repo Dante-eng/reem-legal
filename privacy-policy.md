@@ -42,6 +42,6 @@ Logging in uses Discord OAuth2 with the `identify` and `guilds` scopes. Access t
 
 Reem follows Discord's minimum age requirements and does not knowingly collect data from anyone below them.
 
-## Changes and contact
+## Changes
 
-This policy may be updated; the date above shows the latest version. Questions or deletion requests: open an issue at <https://github.com/Dante-eng/claude/issues>.
+This policy may be updated; the date above shows the latest version.
