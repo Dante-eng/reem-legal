@@ -16,7 +16,7 @@ Do not use the bot to harass others, evade Discord restrictions, spam, attempt t
 
 ## Paid plans
 
-Paid plans (Premium, AI Edition) are billed per server through Stripe and renew until cancelled. Cancelling stops future renewals; the plan stays active until the end of the paid period. Refunds are handled case by case.
+Paid plans (Premium, AI Edition) are billed per server and renew until cancelled. Cancelling stops future renewals; the plan stays active until the end of the paid period. Refunds are handled case by case.
 
 ## Availability
 
