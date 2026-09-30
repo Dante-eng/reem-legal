@@ -30,6 +30,6 @@ To the extent permitted by law, the operator is not liable for indirect or conse
 
 How data is handled is described in the [Privacy Policy](privacy-policy.md).
 
-## Changes and contact
+## Changes
 
-These terms may be updated; continued use after an update means acceptance. Questions: open an issue at <https://github.com/Dante-eng/claude/issues>.
+These terms may be updated; continued use after an update means acceptance.
