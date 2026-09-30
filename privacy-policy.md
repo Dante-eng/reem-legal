@@ -27,10 +27,6 @@ If a server administrator enables the AI assistant, messages that members addres
 
 By default conversations are not stored; only usage counters (number of answers, tokens, thumbs-up/down feedback) are kept per server per month. Administrators can opt in to a 30-day log of questions and answers, and to AI summaries of closed tickets (which sends that ticket's messages to Anthropic). Administrators are responsible for telling their members which of these are active.
 
-## Payments
-
-Subscriptions are processed by Stripe. Reem stores the Stripe customer and subscription identifiers and the plan's end date for the server. It never sees or stores card details.
-
 ## Dashboard login
 
 Logging in uses Discord OAuth2 with the `identify` and `guilds` scopes. Access tokens are discarded after login. A session records your user ID, display name, avatar and the servers you can manage, and expires after 12 hours.
